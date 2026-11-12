@@ -1,8 +1,8 @@
 {
  "schemaVersion": 1,
- "version": 1,
+ "version": 2,
  "generated": "2026-11-12",
- "count": 33,
+ "count": 67,
  "license": "CC BY-SA 4.0",
  "attribution": "https://github.com/OldGafferSoftware/FantaFlavours#attribution",
  "flavours": [
@@ -45,12 +45,17 @@
    "markets": [
     "US",
     "Canada",
-    "Algeria"
+    "Algeria",
+    "Mexico",
+    "Thailand",
+    "Indonesia",
+    "Singapore",
+    "Spain"
    ],
    "availability": null,
-   "zeroSugar": null,
+   "zeroSugar": true,
    "since": null,
-   "update": "Joined the Canadian range in 2025",
+   "update": "Zero Sugar version in Indonesia; in Spain only on the Canary Islands",
    "sourceURL": "https://www.coca-cola.com/ca/en/media-centre/news/fanta-strawberry-canada",
    "discontinued": false
   },
@@ -64,12 +69,17 @@
     "UK",
     "Japan",
     "Brazil",
-    "South Africa"
+    "South Africa",
+    "Mexico",
+    "Thailand",
+    "Indonesia",
+    "Singapore",
+    "South Korea"
    ],
    "availability": null,
-   "zeroSugar": null,
+   "zeroSugar": true,
    "since": null,
-   "update": "Added to the UK core range in February 2026; recipe refreshed in Japan in April 2026",
+   "update": "Added to the UK core range in February 2026; refreshed in Japan in April 2026; Zero version in South Korea",
    "sourceURL": "https://www.thegrocer.co.uk/news/fanta-extends-its-core-range-with-grape-flavoured-variant/715385.article",
    "discontinued": false
   },
@@ -80,12 +90,16 @@
    "status": "current",
    "markets": [
     "US",
-    "South Africa"
+    "South Africa",
+    "Canada",
+    "Australia",
+    "South Korea",
+    "Spain"
    ],
    "availability": null,
-   "zeroSugar": null,
+   "zeroSugar": true,
    "since": null,
-   "update": "Listed on the US Fanta range",
+   "update": "Zero Sugar version in Australia and South Korea; in Spain only on the Canary Islands",
    "sourceURL": "https://www.coca-cola.com/us/en/brands/fanta/products",
    "discontinued": false
   },
@@ -96,12 +110,13 @@
    "status": "current",
    "markets": [
     "US",
-    "Japan"
+    "Japan",
+    "South Korea"
    ],
    "availability": null,
-   "zeroSugar": null,
+   "zeroSugar": true,
    "since": null,
-   "update": "Listed on the US Fanta range",
+   "update": "Zero Sugar “refreshing peach” in South Korea",
    "sourceURL": "https://www.coca-cola.com/us/en/brands/fanta/products",
    "discontinued": false
   },
@@ -142,12 +157,13 @@
    "status": "current",
    "markets": [
     "UK",
-    "Ireland"
+    "Ireland",
+    "Netherlands"
    ],
    "availability": null,
-   "zeroSugar": null,
+   "zeroSugar": true,
    "since": "2024",
-   "update": "Took over from Lilt in 2024",
+   "update": "Took over from Lilt in 2024; Zero Sugar in the Netherlands",
    "sourceURL": "https://en.wikipedia.org/wiki/Fanta",
    "discontinued": false
   },
@@ -230,83 +246,104 @@
    "id": "fanta-fruit-twist",
    "name": "Fanta Fruit Twist",
    "notes": "A mixed fruit soda from the UK.",
-   "status": null,
+   "status": "current",
    "markets": [
     "UK"
    ],
    "availability": null,
-   "zeroSugar": null,
+   "zeroSugar": true,
    "since": null,
-   "update": null,
-   "sourceURL": "https://en.wikipedia.org/wiki/Fanta",
+   "update": "Part of the UK range, with a Zero version",
+   "sourceURL": "https://www.coca-cola.com/gb/en/brands/fanta",
    "discontinued": false
   },
   {
    "id": "fanta-exotic",
    "name": "Fanta Exotic",
    "notes": "A tropical mixed fruit soda; Fruit Twist is sold under this name in Scandinavian countries.",
-   "status": null,
+   "status": "current",
    "markets": [
     "Scandinavia",
-    "South Africa"
+    "South Africa",
+    "Germany",
+    "Austria",
+    "Switzerland",
+    "Norway",
+    "Sweden",
+    "Spain"
    ],
    "availability": null,
-   "zeroSugar": null,
+   "zeroSugar": true,
    "since": null,
-   "update": "Sold at some retailers in South Africa",
-   "sourceURL": "https://en.wikipedia.org/wiki/Fanta",
+   "update": "Widely sold in Europe, usually with a Zero Sugar version",
+   "sourceURL": "https://www.coca-cola.com/de/de/brands/fanta",
    "discontinued": false
   },
   {
    "id": "fanta-fruit-punch",
    "name": "Fanta Fruit Punch",
    "notes": "A fruit punch soda associated with Thailand; also sold in the Philippines until the 2000s.",
-   "status": null,
+   "status": "current",
    "markets": [
     "Thailand",
-    "Philippines"
+    "Philippines",
+    "Japan",
+    "Indonesia"
    ],
    "availability": null,
    "zeroSugar": null,
    "since": null,
-   "update": null,
-   "sourceURL": "https://en.wikipedia.org/wiki/Fanta",
+   "update": "Sold in Thailand and Indonesia, and at some stores in Japan",
+   "sourceURL": "https://www.coca-cola.com/th/th/brands/fanta",
    "discontinued": false
   },
   {
    "id": "fanta-lemon",
    "name": "Fanta Lemon",
    "notes": "A lemon soda.",
-   "status": null,
+   "status": "current",
    "markets": [
     "South Africa",
-    "Philippines"
+    "Philippines",
+    "UK",
+    "Ireland",
+    "Australia",
+    "Spain",
+    "Germany",
+    "Austria",
+    "Switzerland",
+    "Norway",
+    "Sweden",
+    "Poland",
+    "Romania",
+    "Japan"
    ],
    "availability": null,
-   "zeroSugar": null,
+   "zeroSugar": true,
    "since": null,
-   "update": "Sold at some retailers in South Africa; phased out in the Philippines in the 2000s",
-   "sourceURL": "https://en.wikipedia.org/wiki/Fanta",
+   "update": "Widely sold in Europe and Australia; often Zero Sugar only",
+   "sourceURL": "https://www.coca-cola.com/gb/en/brands/fanta",
    "discontinued": false
   },
   {
    "id": "fanta-shokata",
    "name": "Fanta Shokata",
    "notes": "An elderflower-based soda sold in several European countries, including Albania, Bosnia and Herzegovina, Croatia, Poland, Romania and Serbia. The name plays on the Romanian word for elderflower.",
-   "status": null,
+   "status": "current",
    "markets": [
     "Albania",
     "Bosnia and Herzegovina",
     "Croatia",
     "Poland",
     "Romania",
-    "Serbia"
+    "Serbia",
+    "Switzerland"
    ],
    "availability": null,
-   "zeroSugar": null,
+   "zeroSugar": true,
    "since": null,
-   "update": null,
-   "sourceURL": "https://en.wikipedia.org/wiki/Fanta",
+   "update": "Lemon and elderflower; Zero version in Poland",
+   "sourceURL": "https://www.coca-cola.com/ch/de/brands/fanta",
    "discontinued": false
   },
   {
@@ -343,15 +380,19 @@
    "id": "fanta-mango",
    "name": "Fanta Mango",
    "notes": "A mango soda.",
-   "status": null,
+   "status": "current",
    "markets": [
-    "Philippines"
+    "Philippines",
+    "Germany",
+    "Austria",
+    "Switzerland",
+    "Ireland"
    ],
    "availability": null,
-   "zeroSugar": null,
+   "zeroSugar": true,
    "since": null,
-   "update": "Phased out in the Philippines in the 2000s",
-   "sourceURL": "https://en.wikipedia.org/wiki/Fanta",
+   "update": "Sold in several European countries; Zero Sugar in Germany",
+   "sourceURL": "https://www.coca-cola.com/at/de/brands/fanta",
    "discontinued": false
   },
   {
@@ -448,15 +489,15 @@
    "id": "fanta-white-peach-japan",
    "name": "Fanta Sweet & Sour Morning Picked White Peach",
    "notes": "A sweet and sour white peach soda made for Japan, an update of the earlier Japan-only peach Fanta.",
-   "status": "limited",
+   "status": "current",
    "markets": [
     "Japan"
    ],
    "availability": null,
    "zeroSugar": null,
    "since": "2025-05",
-   "update": "Summer 2025 release",
-   "sourceURL": "https://essential-japan.com/?p=37618",
+   "update": "Summer 2025 release; listed again at some stores in summer 2026",
+   "sourceURL": "https://www.coca-cola.com/jp/ja/brands/fanta/campaign/summer-2026",
    "discontinued": false
   },
   {
@@ -518,6 +559,529 @@
    "update": "Halloween 2026 limited edition",
    "sourceURL": "https://www.coca-cola.com/ca/en/media-centre/news/fanta-ghost-face-punch-halloween",
    "discontinued": false
+  },
+  {
+   "id": "fanta-raspberry",
+   "name": "Fanta Raspberry",
+   "notes": "A raspberry soda.",
+   "status": "current",
+   "markets": [
+    "Australia",
+    "New Zealand",
+    "Sweden",
+    "Spain"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": null,
+   "update": "Zero Sugar version in Australia, Sweden and Spain",
+   "sourceURL": "https://www.coca-cola.com/au/en/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-blissful-hibiscus",
+   "name": "Fanta Blissful Hibiscus",
+   "notes": "A hibiscus-flavoured soda.",
+   "status": "current",
+   "markets": [
+    "Australia"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/au/en/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-dreamy-cream",
+   "name": "Fanta Dreamy Cream",
+   "notes": "A cream soda.",
+   "status": "current",
+   "markets": [
+    "Australia"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/au/en/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-pink-grapefruit",
+   "name": "Fanta Pink Grapefruit Zero Sugar",
+   "notes": "A sugar-free pink grapefruit soda.",
+   "status": "current",
+   "markets": [
+    "Germany",
+    "Switzerland"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/de/de/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-mango-dragonfruit",
+   "name": "Fanta Mango Dragonfruit",
+   "notes": "A mango and dragon fruit soda.",
+   "status": "current",
+   "markets": [
+    "Germany",
+    "France"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/de/de/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-mandarine",
+   "name": "Fanta Mandarine",
+   "notes": "A mandarin soda with no added sugar.",
+   "status": "current",
+   "markets": [
+    "Germany"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/de/de/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-lemon-elderflower",
+   "name": "Fanta Lemon & Elderflower",
+   "notes": "A lemon and elderflower soda.",
+   "status": "current",
+   "markets": [
+    "Germany"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/de/de/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-citron-frappe",
+   "name": "Fanta Citron Frappé",
+   "notes": "A French lemon soda.",
+   "status": "current",
+   "markets": [
+    "France"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/fr/fr/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-cassis",
+   "name": "Fanta Cassis",
+   "notes": "A blackcurrant soda.",
+   "status": "current",
+   "markets": [
+    "France",
+    "Netherlands"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "New in France",
+   "sourceURL": "https://www.coca-cola.com/fr/fr/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-delice-tropical",
+   "name": "Fanta Délice Tropical",
+   "notes": "A mango, orange and passion fruit soda, formerly sold in France as Fanta Exotique.",
+   "status": "current",
+   "markets": [
+    "France"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/fr/fr/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-tutti-frutti",
+   "name": "Fanta Tutti Frutti",
+   "notes": "A peach, pineapple and banana soda.",
+   "status": "current",
+   "markets": [
+    "France",
+    "Poland"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": null,
+   "update": "Zero Sugar; a limited edition in France",
+   "sourceURL": "https://www.coca-cola.com/fr/fr/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-watermelon",
+   "name": "Fanta Watermelon",
+   "notes": "A watermelon soda with no added sugar.",
+   "status": "current",
+   "markets": [
+    "Spain"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/es/es/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-aranciata-rossa",
+   "name": "Fanta Aranciata Rossa",
+   "notes": "A blood orange soda made with Sicilian blood orange juice, with no added sugar.",
+   "status": "current",
+   "markets": [
+    "Italy"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/it/it/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-limonata",
+   "name": "Fanta Limonata",
+   "notes": "An Italian lemonade made with lemon juice and pulp.",
+   "status": "current",
+   "markets": [
+    "Italy"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": null,
+   "update": "Also a no-added-sugar version made with Siracusa lemons",
+   "sourceURL": "https://www.coca-cola.com/it/it/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-strawberry-kiwi",
+   "name": "Fanta Strawberry Kiwi",
+   "notes": "A strawberry and kiwi soda.",
+   "status": "current",
+   "markets": [
+    "Netherlands",
+    "Sweden"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/nl/nl/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-pomelo",
+   "name": "Fanta Pomelo",
+   "notes": "A grapefruit (pomelo) soda.",
+   "status": "current",
+   "markets": [
+    "Netherlands",
+    "Argentina"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": null,
+   "update": "Zero Sugar in the Netherlands",
+   "sourceURL": "https://www.coca-cola.com/nl/nl/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-crimson-cherry",
+   "name": "Fanta Crimson Cherry",
+   "notes": "An apple and cherry soda from the 2026 Xbox promotion, sold in France as Fanta Cerise éclatante.",
+   "status": "limited",
+   "markets": [
+    "Netherlands",
+    "Ireland",
+    "Poland",
+    "Romania",
+    "Austria",
+    "France"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": "2026",
+   "update": "Limited edition in Europe",
+   "sourceURL": "https://www.coca-cola.com/nl/nl/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-forest-berries",
+   "name": "Fanta Zero Sugar Forest Berries",
+   "notes": "A sugar-free forest berry soda.",
+   "status": "limited",
+   "markets": [
+    "Sweden"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": null,
+   "update": "Limited edition",
+   "sourceURL": "https://www.coca-cola.com/se/sv/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-rod-julebrus",
+   "name": "Fanta Zero Rød Julebrus",
+   "notes": "A sugar-free red forest berry Christmas soda, in the Norwegian julebrus tradition.",
+   "status": "limited",
+   "markets": [
+    "Norway"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": null,
+   "update": "Christmas season",
+   "sourceURL": "https://www.coca-cola.com/no/no/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-pomegranate",
+   "name": "Fanta Pomegranate",
+   "notes": "A pomegranate soda (Fanta Nar).",
+   "status": "current",
+   "markets": [
+    "Turkey"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "New in Turkey",
+   "sourceURL": "https://www.coca-cola.com/tr/tr/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-melon-soda",
+   "name": "Fanta Melon Soda",
+   "notes": "A green melon soda sold in Japan.",
+   "status": "current",
+   "markets": [
+    "Japan"
+   ],
+   "availability": "Some stores only",
+   "zeroSugar": null,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/jp/ja/brands/fanta/campaign/summer-2026",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-shikuwasa",
+   "name": "Fanta Shikuwasa",
+   "notes": "A soda made with shikuwasa, an Okinawan citrus.",
+   "status": "current",
+   "markets": [
+    "Japan"
+   ],
+   "availability": "Some stores only",
+   "zeroSugar": null,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/jp/ja/brands/fanta/campaign/summer-2026",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-muscat",
+   "name": "Fanta Muscat",
+   "notes": "A muscat grape soda.",
+   "status": "current",
+   "markets": [
+    "Japan"
+   ],
+   "availability": "Some stores only",
+   "zeroSugar": null,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/jp/ja/brands/fanta/campaign/summer-2026",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-melon",
+   "name": "Fanta Melon",
+   "notes": "A melon soda sold in South Korea.",
+   "status": "current",
+   "markets": [
+    "South Korea"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/kr/ko/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-ambasa",
+   "name": "Ambasa by Fanta",
+   "notes": "A milky soda sold in South Korea.",
+   "status": "current",
+   "markets": [
+    "South Korea"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/kr/ko/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-apple-delite",
+   "name": "Fanta Apple Delite",
+   "notes": "An apple soda made for India.",
+   "status": "current",
+   "markets": [
+    "India"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/in/en/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-apple",
+   "name": "Fanta Apple",
+   "notes": "An apple soda.",
+   "status": "current",
+   "markets": [
+    "Nigeria"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/ng/en/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-pear",
+   "name": "Fanta Pară Năzdrăvană",
+   "notes": "A pear soda with pear juice, made for Romania.",
+   "status": "current",
+   "markets": [
+    "Romania"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/ro/ro/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-tropical",
+   "name": "Fanta Tropical",
+   "notes": "A tropical fruit soda.",
+   "status": "current",
+   "markets": [
+    "Romania"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/ro/ro/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-madness",
+   "name": "Fanta Madness",
+   "notes": "A red grape soda made for Romania.",
+   "status": "current",
+   "markets": [
+    "Romania"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/ro/ro/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-haunted-apple",
+   "name": "Fanta Haunted Apple",
+   "notes": "A Halloween apple soda released alongside the film Beetlejuice Beetlejuice.",
+   "status": "retired",
+   "markets": null,
+   "availability": null,
+   "zeroSugar": null,
+   "since": "2024",
+   "update": "Halloween 2024 limited edition",
+   "sourceURL": "https://retailwire.com/haunted-fanta-collab-with-beetlejuice-beetlejuice-drops-here-are-the-spooky-flavors",
+   "discontinued": true
+  },
+  {
+   "id": "fanta-chuckys-punch",
+   "name": "Fanta Chucky's Punch",
+   "notes": "A Halloween fruit punch with a Chucky-themed can.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": "2025-09",
+   "update": "Halloween 2025 limited edition",
+   "sourceURL": "https://www.fangoria.com/fanta-halloween-cans/",
+   "discontinued": true
+  },
+  {
+   "id": "fanta-apple-pie",
+   "name": "Fanta Apple Pie",
+   "notes": "The mystery flavour from South Africa's #WhatTheFanta campaign, revealed as apple pie.",
+   "status": "retired",
+   "markets": [
+    "South Africa"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": "2024",
+   "update": "Limited edition, revealed February 2024",
+   "sourceURL": "https://www.bizcommunity.com/article/fantas-mystery-flavour-revealed-as-apple-pie-456229a",
+   "discontinued": true
+  },
+  {
+   "id": "fanta-what-the-fanta-blue",
+   "name": "What The Fanta Blue",
+   "notes": "A blue, sugar-free mystery flavour from the What The Fanta campaign in North America.",
+   "status": "retired",
+   "markets": [
+    "US",
+    "Canada"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2022-07",
+   "update": "Limited edition, sold into early 2023",
+   "sourceURL": "https://www.eatthis.com/news-coca-cola-fanta-new-flavors/",
+   "discontinued": true
   }
  ]
 }
