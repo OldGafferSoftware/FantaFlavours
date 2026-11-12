@@ -60,4 +60,6 @@ Some entries, and some `notes` text, are adapted from the Wikipedia article [Fan
 
 Changes from the article: took the flavours named in its text and infobox and wrote each one's notes in short form; added `id`, `status`, `markets`, `availability`, `zeroSugar`, `since`, `update` and `sourceURL`; added entries for flavours not named in the article. Where the article doesn't say whether a flavour is still sold, `status` is `null`.
 
+Some older and regional entries come from fan lists (for example a 2018 list of Fanta flavours by country, and Japanese snack-shop guides). Their `update` says so, and their `status` stays `null` (unknown) until a newer source confirms it.
+
 The catalog is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). This license covers the catalog data only, not the names, which may be trademarks of their owners. This is an unofficial fan project, not affiliated with or endorsed by any brand owner or by Wikipedia.

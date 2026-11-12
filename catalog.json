@@ -1,8 +1,8 @@
 {
  "schemaVersion": 1,
- "version": 2,
+ "version": 3,
  "generated": "2026-11-12",
- "count": 67,
+ "count": 167,
  "license": "CC BY-SA 4.0",
  "attribution": "https://github.com/OldGafferSoftware/FantaFlavours#attribution",
  "flavours": [
@@ -50,7 +50,9 @@
     "Thailand",
     "Indonesia",
     "Singapore",
-    "Spain"
+    "Spain",
+    "United Arab Emirates",
+    "Egypt"
    ],
    "availability": null,
    "zeroSugar": true,
@@ -74,7 +76,19 @@
     "Thailand",
     "Indonesia",
     "Singapore",
-    "South Korea"
+    "South Korea",
+    "Hong Kong",
+    "Taiwan",
+    "Vietnam",
+    "China",
+    "Croatia",
+    "Serbia",
+    "Bulgaria",
+    "Ukraine",
+    "Hungary",
+    "Portugal",
+    "Kenya",
+    "Guatemala"
    ],
    "availability": null,
    "zeroSugar": true,
@@ -94,7 +108,9 @@
     "Canada",
     "Australia",
     "South Korea",
-    "Spain"
+    "Spain",
+    "Kenya",
+    "Guatemala"
    ],
    "availability": null,
    "zeroSugar": true,
@@ -111,7 +127,8 @@
    "markets": [
     "US",
     "Japan",
-    "South Korea"
+    "South Korea",
+    "China"
    ],
    "availability": null,
    "zeroSugar": true,
@@ -158,7 +175,8 @@
    "markets": [
     "UK",
     "Ireland",
-    "Netherlands"
+    "Netherlands",
+    "Belgium"
    ],
    "availability": null,
    "zeroSugar": true,
@@ -171,30 +189,32 @@
    "id": "fanta-guarana",
    "name": "Fanta Guaraná",
    "notes": "A guaraná soda, one of several regional flavours sold in Brazil.",
-   "status": null,
+   "status": "current",
    "markets": [
-    "Brazil"
+    "Brazil",
+    "Portugal"
    ],
    "availability": null,
-   "zeroSugar": null,
+   "zeroSugar": true,
    "since": null,
-   "update": "Brazil regional flavour, sold between 2010 and 2020",
-   "sourceURL": "https://en.wikipedia.org/wiki/Fanta",
+   "update": "Sold in Portugal with no added sugar; a Brazil regional flavour between 2010 and 2020",
+   "sourceURL": "https://www.coca-cola.com/pt/pt/brands/fanta",
    "discontinued": false
   },
   {
    "id": "fanta-passion-fruit",
    "name": "Fanta Passion Fruit",
    "notes": "A passion fruit soda sold as a regional flavour in Brazil.",
-   "status": null,
+   "status": "current",
    "markets": [
-    "Brazil"
+    "Brazil",
+    "Portugal"
    ],
    "availability": null,
-   "zeroSugar": null,
+   "zeroSugar": true,
    "since": null,
-   "update": "Brazil regional flavour, sold between 2010 and 2020",
-   "sourceURL": "https://en.wikipedia.org/wiki/Fanta",
+   "update": "Sold in Portugal with no added sugar; a Brazil regional flavour between 2010 and 2020",
+   "sourceURL": "https://www.coca-cola.com/pt/pt/brands/fanta",
    "discontinued": false
   },
   {
@@ -270,7 +290,13 @@
     "Switzerland",
     "Norway",
     "Sweden",
-    "Spain"
+    "Spain",
+    "Czech Republic",
+    "Slovakia",
+    "Hungary",
+    "Denmark",
+    "Belgium",
+    "Greece"
    ],
    "availability": null,
    "zeroSugar": true,
@@ -293,8 +319,8 @@
    "availability": null,
    "zeroSugar": null,
    "since": null,
-   "update": "Sold in Thailand and Indonesia, and at some stores in Japan",
-   "sourceURL": "https://www.coca-cola.com/th/th/brands/fanta",
+   "update": "Sold in Thailand and Indonesia; in Japan, a limited nationwide return from September 2025",
+   "sourceURL": "https://www.coca-cola.com/jp/ja/media-center/news-20250910-11",
    "discontinued": false
   },
   {
@@ -316,7 +342,16 @@
     "Sweden",
     "Poland",
     "Romania",
-    "Japan"
+    "Japan",
+    "Croatia",
+    "Bulgaria",
+    "Belgium",
+    "Hungary",
+    "Portugal",
+    "Finland",
+    "Denmark",
+    "Greece",
+    "Morocco"
    ],
    "availability": null,
    "zeroSugar": true,
@@ -337,7 +372,13 @@
     "Poland",
     "Romania",
     "Serbia",
-    "Switzerland"
+    "Switzerland",
+    "Bulgaria",
+    "Ukraine",
+    "Czech Republic",
+    "Slovakia",
+    "Belgium",
+    "Denmark"
    ],
    "availability": null,
    "zeroSugar": true,
@@ -399,16 +440,17 @@
    "id": "fanta-green-apple",
    "name": "Fanta Green Apple",
    "notes": "A green apple soda sold in the Philippines.",
-   "status": "retired",
+   "status": "current",
    "markets": [
-    "Philippines"
+    "Philippines",
+    "Peru"
    ],
    "availability": null,
    "zeroSugar": null,
    "since": null,
-   "update": "Phased out in the 2000s",
-   "sourceURL": "https://en.wikipedia.org/wiki/Fanta",
-   "discontinued": true
+   "update": "Sold in Peru (Manzana Verde); phased out in the Philippines in the 2000s",
+   "sourceURL": "https://www.coca-cola.com/pe/es/brands/fanta",
+   "discontinued": false
   },
   {
    "id": "fanta-root-beer",
@@ -491,12 +533,13 @@
    "notes": "A sweet and sour white peach soda made for Japan, an update of the earlier Japan-only peach Fanta.",
    "status": "current",
    "markets": [
-    "Japan"
+    "Japan",
+    "UK"
    ],
    "availability": null,
    "zeroSugar": null,
    "since": "2025-05",
-   "update": "Summer 2025 release; listed again at some stores in summer 2026",
+   "update": "Japan summer release; listed again at some stores in summer 2026; imports spotted at UK discount stores in 2025",
    "sourceURL": "https://www.coca-cola.com/jp/ja/brands/fanta/campaign/summer-2026",
    "discontinued": false
   },
@@ -569,7 +612,11 @@
     "Australia",
     "New Zealand",
     "Sweden",
-    "Spain"
+    "Spain",
+    "Bulgaria",
+    "Ukraine",
+    "Finland",
+    "Denmark"
    ],
    "availability": null,
    "zeroSugar": true,
@@ -661,12 +708,14 @@
    "notes": "A lemon and elderflower soda.",
    "status": "current",
    "markets": [
-    "Germany"
+    "Germany",
+    "Denmark",
+    "Hungary"
    ],
    "availability": null,
-   "zeroSugar": null,
+   "zeroSugar": true,
    "since": null,
-   "update": null,
+   "update": "Zero Sugar in Denmark and Hungary",
    "sourceURL": "https://www.coca-cola.com/de/de/brands/fanta",
    "discontinued": false
   },
@@ -692,7 +741,8 @@
    "status": "current",
    "markets": [
     "France",
-    "Netherlands"
+    "Netherlands",
+    "Belgium"
    ],
    "availability": null,
    "zeroSugar": null,
@@ -820,7 +870,12 @@
     "Poland",
     "Romania",
     "Austria",
-    "France"
+    "France",
+    "Hungary",
+    "Czech Republic",
+    "Slovakia",
+    "Bulgaria",
+    "Belgium"
    ],
    "availability": null,
    "zeroSugar": null,
@@ -914,9 +969,9 @@
    ],
    "availability": "Some stores only",
    "zeroSugar": null,
-   "since": null,
-   "update": null,
-   "sourceURL": "https://www.coca-cola.com/jp/ja/brands/fanta/campaign/summer-2026",
+   "since": "1992",
+   "update": "First sold in 1992; returned as a limited release in March 2025; at some stores in 2026",
+   "sourceURL": "https://www.coca-cola.com/jp/ja/media-center/news-20250314-11",
    "discontinued": false
   },
   {
@@ -970,7 +1025,8 @@
    "notes": "An apple soda.",
    "status": "current",
    "markets": [
-    "Nigeria"
+    "Nigeria",
+    "Morocco"
    ],
    "availability": null,
    "zeroSugar": null,
@@ -985,7 +1041,9 @@
    "notes": "A pear soda with pear juice, made for Romania.",
    "status": "current",
    "markets": [
-    "Romania"
+    "Romania",
+    "Russia",
+    "Azerbaijan"
    ],
    "availability": null,
    "zeroSugar": null,
@@ -1000,7 +1058,10 @@
    "notes": "A tropical fruit soda.",
    "status": "current",
    "markets": [
-    "Romania"
+    "Romania",
+    "Serbia",
+    "Bulgaria",
+    "Ukraine"
    ],
    "availability": null,
    "zeroSugar": null,
@@ -1081,6 +1142,1593 @@
    "since": "2022-07",
    "update": "Limited edition, sold into early 2023",
    "sourceURL": "https://www.eatthis.com/news-coca-cola-fanta-new-flavors/",
+   "discontinued": true
+  },
+  {
+   "id": "fanta-red-apple",
+   "name": "Fanta Red Apple",
+   "notes": "A red apple soda.",
+   "status": "current",
+   "markets": [
+    "Pakistan",
+    "Egypt"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "A limited edition in Pakistan",
+   "sourceURL": "https://www.coca-cola.com/pk/en/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-kola-inglesa",
+   "name": "Fanta Kola Inglesa",
+   "notes": "A red, sweet Peruvian-style soda.",
+   "status": "current",
+   "markets": [
+    "Peru"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/pe/es/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-cream-soda",
+   "name": "Fanta Cream Soda",
+   "notes": "A cream soda (Soda kem in Vietnam).",
+   "status": "current",
+   "markets": [
+    "Vietnam",
+    "Sri Lanka",
+    "Canada"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/vn/vi/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-sarsi",
+   "name": "Fanta Xá Xị",
+   "notes": "A sarsaparilla-style soda made for Vietnam.",
+   "status": "current",
+   "markets": [
+    "Vietnam",
+    "Cambodia"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/vn/vi/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-jelly-strawberry",
+   "name": "Fanta Jelly Strawberry",
+   "notes": "A strawberry soda with a jelly-sweet flavour, made for Egypt.",
+   "status": "current",
+   "markets": [
+    "Egypt"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/eg/ar/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-jasmine-peach",
+   "name": "Fanta Jasmine Peach",
+   "notes": "A jasmine and peach soda made for China.",
+   "status": "current",
+   "markets": [
+    "China"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/cn/zh/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-apple-lychee",
+   "name": "Fanta Zero Sugar Apple Lychee",
+   "notes": "A sugar-free apple and lychee soda.",
+   "status": "current",
+   "markets": [
+    "Czech Republic",
+    "Slovakia"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/cz/cs/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-southern-fruits",
+   "name": "Fanta Etelän Hedelmät",
+   "notes": "A sugar-free “southern fruits” soda made for Finland.",
+   "status": "current",
+   "markets": [
+    "Finland"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/fi/fi/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-apple-sour-cherry",
+   "name": "Fanta Apple & Sour Cherry",
+   "notes": "An apple and sour cherry soda.",
+   "status": "current",
+   "markets": [
+    "Greece",
+    "UK"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed as new in Greece",
+   "sourceURL": "https://www.coca-cola.com/gr/el/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-blue-greece",
+   "name": "Fanta Blue",
+   "notes": "A non-carbonated orangeade sold in Greece.",
+   "status": "current",
+   "markets": [
+    "Greece",
+    "Bulgaria"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/gr/el/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-citrus",
+   "name": "Fanta Citrus",
+   "notes": "A mixed citrus soda.",
+   "status": "current",
+   "markets": [
+    "United Arab Emirates",
+    "Pakistan",
+    "Bahrain",
+    "Iran"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/ae/en/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-watermelon-china",
+   "name": "Fanta Watermelon (China)",
+   "notes": "A watermelon soda made for China.",
+   "status": "current",
+   "markets": [
+    "China"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://www.coca-cola.com/cn/zh/brands/fanta",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-early-harvest-lemon",
+   "name": "Fanta Sweet & Sour Early-Harvest Lemon",
+   "notes": "A sweet and sour lemon soda, the second in Japan's sweet-and-sour series after white peach.",
+   "status": "limited",
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": "2025-07",
+   "update": "Limited summer 2025 release",
+   "sourceURL": "https://www.coca-cola.com/jp/ja/media-center/news-20250701-11",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-honki-grape",
+   "name": "Fanta “Honki” Grape",
+   "notes": "A reworked, stronger-tasting grape Fanta made for Japan.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": "2026",
+   "update": null,
+   "sourceURL": "https://www.napajapan.com/products/fanta-japan-honki-serious-grape-re-engineered-flavor",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-premier-grape",
+   "name": "Fanta Premier Grape",
+   "notes": "A richer grape Fanta for Japan.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": "2020-03",
+   "update": null,
+   "sourceURL": "https://zenpop.jp/blog/post/5111/most-original-japanese-fanta-flavors",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-salty-lychee",
+   "name": "Fanta Salty Lychee",
+   "notes": "A lightly salted lychee soda for summer.",
+   "status": "retired",
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": "2019",
+   "update": "Limited summer 2019 release",
+   "sourceURL": "https://zenpop.jp/blog/post/5111/most-original-japanese-fanta-flavors",
+   "discontinued": true
+  },
+  {
+   "id": "fanta-shine-muscat",
+   "name": "Fanta Shine Muscat",
+   "notes": "A Shine Muscat grape soda.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Seasonal (autumn and winter)",
+   "sourceURL": "https://zenpop.jp/blog/post/5111/most-original-japanese-fanta-flavors",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-golden-apple-power",
+   "name": "Fanta Golden Apple & Power",
+   "notes": "A golden apple soda, a winter limited edition.",
+   "status": "retired",
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": "2017",
+   "update": "Limited winter 2017 release",
+   "sourceURL": "https://zenpop.jp/blog/post/5111/most-original-japanese-fanta-flavors",
+   "discontinued": true
+  },
+  {
+   "id": "fanta-iyokan",
+   "name": "Fanta Japanese Citrus (Iyokan)",
+   "notes": "A soda made with iyokan, a Japanese citrus.",
+   "status": "retired",
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Limited edition",
+   "sourceURL": "https://zenpop.jp/blog/post/5111/most-original-japanese-fanta-flavors",
+   "discontinued": true
+  },
+  {
+   "id": "fanta-furufuru-shaker",
+   "name": "Fanta FuruFuru Shaker",
+   "notes": "A jelly soda you shake before drinking, sold in grape and orange.",
+   "status": "retired",
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": "2008",
+   "update": null,
+   "sourceURL": "https://zenpop.jp/blog/post/5111/most-original-japanese-fanta-flavors",
+   "discontinued": true
+  },
+  {
+   "id": "fanta-golden-kiwi",
+   "name": "Fanta Golden Kiwi",
+   "notes": "A golden kiwi soda.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://zenpop.jp/blog/post/5111/most-original-japanese-fanta-flavors",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-cold-mandarin",
+   "name": "Fanta Cold Mandarin Orange",
+   "notes": "A mandarin orange soda.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://zenpop.jp/blog/post/5111/most-original-japanese-fanta-flavors",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-squash-punch",
+   "name": "Fanta Squash Punch",
+   "notes": "A fruity punch soda.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": null,
+   "sourceURL": "https://zenpop.jp/blog/post/5111/most-original-japanese-fanta-flavors",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-japanese-peach",
+   "name": "Fanta Nihon no Kajitsu Momo",
+   "notes": "A Japanese peach soda from the “Japanese fruit” series.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": "2011",
+   "update": null,
+   "sourceURL": "https://www.travelsintranslation.com/fanta/",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-funmix",
+   "name": "Fanta Funmix",
+   "notes": "A cola and orange blend.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": "2011",
+   "update": null,
+   "sourceURL": "https://www.travelsintranslation.com/fanta/",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-japan-melon-cream",
+   "name": "Fanta Melon Cream",
+   "notes": "A melon cream soda.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-japan-honey-lemon",
+   "name": "Fanta Honey Lemon",
+   "notes": "A honey and lemon soda.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-japan-yuzu",
+   "name": "Fanta Yuzu",
+   "notes": "A yuzu citrus soda.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-japan-golden-grape",
+   "name": "Fanta Golden Grape",
+   "notes": "A golden grape soda.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-japan-la-france",
+   "name": "Fanta La France",
+   "notes": "A soda made with La France pear.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-japan-sumomo",
+   "name": "Fanta Sumomo",
+   "notes": "A Japanese plum (sumomo) soda.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-japan-ume",
+   "name": "Fanta Ume",
+   "notes": "A Japanese apricot (ume) soda.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-japan-anzu",
+   "name": "Fanta Anzu",
+   "notes": "An apricot (anzu) soda.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-japan-nashi",
+   "name": "Fanta Nashi",
+   "notes": "An Asian pear (nashi) soda.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-japan-white-strawberry",
+   "name": "Fanta White Strawberry",
+   "notes": "A white strawberry soda.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-japan-ichigo-cream",
+   "name": "Fanta Ichigo Cream",
+   "notes": "A strawberry and cream soda.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-japan-white-banana",
+   "name": "Fanta White Banana",
+   "notes": "A white banana soda.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-japan-snow-squash",
+   "name": "Fanta Snow Squash",
+   "notes": "A milky soda.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-japan-winter-apple",
+   "name": "Fanta Winter Apple",
+   "notes": "A winter apple soda.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-japan-clear-apple",
+   "name": "Fanta Clear Apple",
+   "notes": "A clear apple soda.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-japan-ultra-lemon",
+   "name": "Fanta Ultra Lemon",
+   "notes": "A strong lemon soda.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-japan-mellow-muscat",
+   "name": "Fanta Mellow Muscat",
+   "notes": "A soft muscat soda from the Mellow series.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-japan-mellow-la-france",
+   "name": "Fanta Mellow La France",
+   "notes": "A soft pear soda from the Mellow series.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-japan-mellow-lychee",
+   "name": "Fanta Mellow Lychee",
+   "notes": "A soft lychee soda from the Mellow series.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-japan-mellow-mango",
+   "name": "Fanta Mellow Mango",
+   "notes": "A soft mango soda from the Mellow series.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-japan-mellow-acerola",
+   "name": "Fanta Mellow Acerola",
+   "notes": "A soft acerola soda from the Mellow series.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-japan-mellow-apple",
+   "name": "Fanta Mellow Apple",
+   "notes": "A soft apple soda from the Mellow series.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-japan-mellow-pineapple",
+   "name": "Fanta Mellow Pineapple",
+   "notes": "A soft pineapple soda from the Mellow series.",
+   "status": null,
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-blueberry",
+   "name": "Fanta Blueberry",
+   "notes": "A blueberry soda.",
+   "status": null,
+   "markets": [
+    "Thailand",
+    "Indonesia",
+    "Bangladesh",
+    "Bolivia",
+    "Cambodia",
+    "Dominican Republic",
+    "New Zealand",
+    "Malta"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-blackcurrant",
+   "name": "Fanta Blackcurrant",
+   "notes": "A blackcurrant soda, popular in parts of Africa; sold as Fanta Cassis in France and the Netherlands.",
+   "status": null,
+   "markets": [
+    "Kenya",
+    "Nigeria",
+    "Ghana",
+    "Egypt",
+    "Tanzania",
+    "Rwanda"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed for Kenya in a 2025 shop guide and in a 2018 fan list",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-tamarind",
+   "name": "Fanta Tamarind",
+   "notes": "A tamarind soda.",
+   "status": null,
+   "markets": [
+    "Mexico"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-grenadine",
+   "name": "Fanta Grenadine",
+   "notes": "A grenadine (pomegranate syrup) soda.",
+   "status": null,
+   "markets": [
+    "Costa Rica",
+    "Madagascar"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-hawthorn",
+   "name": "Fanta Hawthorn",
+   "notes": "A hawthorn berry soda.",
+   "status": null,
+   "markets": [
+    "China"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-orange-mint",
+   "name": "Fanta Orange Mint",
+   "notes": "An orange and mint soda.",
+   "status": null,
+   "markets": [
+    "China"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-strawberry-ice-cream",
+   "name": "Fanta Strawberry Ice Cream",
+   "notes": "A strawberry ice cream soda.",
+   "status": null,
+   "markets": [
+    "Papua New Guinea"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-roselle",
+   "name": "Fanta Roselle",
+   "notes": "A soda made with roselle (sorrel), a hibiscus.",
+   "status": null,
+   "markets": [
+    "Trinidad and Tobago"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-kampane",
+   "name": "Fanta Kampane",
+   "notes": "A local flavour sold in Guadeloupe.",
+   "status": null,
+   "markets": [
+    "Guadeloupe"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-banana",
+   "name": "Fanta Banana",
+   "notes": "A banana soda.",
+   "status": null,
+   "markets": [
+    "Honduras",
+    "Trinidad and Tobago",
+    "Grenada"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-cantaloupe",
+   "name": "Fanta Cantaloupe",
+   "notes": "A cantaloupe melon soda.",
+   "status": null,
+   "markets": [
+    "Egypt"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-bitter-soda",
+   "name": "Fanta Bitter Soda",
+   "notes": "A bitter, aperitif-style soda.",
+   "status": null,
+   "markets": [
+    "Libya"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-sweet-lemon",
+   "name": "Fanta Sweet Lemon",
+   "notes": "A sweet lemon soda.",
+   "status": null,
+   "markets": [
+    "Argentina"
+   ],
+   "availability": "Buenos Aires",
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-rock-shandy",
+   "name": "Fanta Rock Shandy",
+   "notes": "A blend of lemon and orange.",
+   "status": null,
+   "markets": [
+    "Ireland"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-mezzo",
+   "name": "Fanta Mezzo",
+   "notes": "Orange soda with a splash of cola.",
+   "status": null,
+   "markets": [
+    "Belgium",
+    "Spain",
+    "Sweden"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-peach-apricot",
+   "name": "Fanta Peach & Apricot",
+   "notes": "A peach and apricot soda.",
+   "status": null,
+   "markets": [
+    "France",
+    "Poland",
+    "UK",
+    "Czech Republic"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-raspberry-passionfruit",
+   "name": "Fanta Raspberry & Passion Fruit",
+   "notes": "A raspberry and passion fruit soda.",
+   "status": null,
+   "markets": [
+    "France",
+    "Denmark",
+    "Russia",
+    "Hungary"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-pineapple-citrus",
+   "name": "Fanta Pineapple & Citrus",
+   "notes": "A pineapple and citrus soda.",
+   "status": null,
+   "markets": [
+    "Denmark",
+    "Sweden"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-mango-passionfruit",
+   "name": "Fanta Mango & Passion Fruit",
+   "notes": "A mango and passion fruit soda.",
+   "status": null,
+   "markets": [
+    "Italy",
+    "Belgium",
+    "Norway",
+    "Malaysia",
+    "Singapore"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-dragonata",
+   "name": "Fanta Dragonata",
+   "notes": "A dragon fruit soda.",
+   "status": null,
+   "markets": [
+    "Albania",
+    "North Macedonia",
+    "Estonia",
+    "Lithuania"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-drango",
+   "name": "Fanta Drango",
+   "notes": "A mango and pitaya (dragon fruit) soda.",
+   "status": null,
+   "markets": [
+    "Romania"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-peach-mangosteen",
+   "name": "Fanta Peach & Mangosteen",
+   "notes": "A white peach and mangosteen soda.",
+   "status": null,
+   "markets": [
+    "Austria",
+    "Bulgaria"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-marakanas",
+   "name": "Fanta Marakanas",
+   "notes": "A passion fruit and pineapple soda.",
+   "status": null,
+   "markets": [
+    "Belarus"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-mucho",
+   "name": "Fanta Mucho",
+   "notes": "A mixed fruit soda from the Balkans.",
+   "status": null,
+   "markets": [
+    "Bosnia and Herzegovina",
+    "Croatia"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-blood-orange",
+   "name": "Fanta Blood Orange",
+   "notes": "A blood orange soda.",
+   "status": null,
+   "markets": [
+    "UK",
+    "Turkey",
+    "Malta"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-tangerine",
+   "name": "Fanta Tangerine",
+   "notes": "A tangerine (mandarin) soda.",
+   "status": null,
+   "markets": [
+    "Canada",
+    "Turkey",
+    "Ukraine",
+    "Mexico",
+    "Greece",
+    "Belarus",
+    "Finland"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-grapefruit",
+   "name": "Fanta Grapefruit",
+   "notes": "A grapefruit (toronja) soda.",
+   "status": null,
+   "markets": [
+    "Mexico",
+    "Ecuador",
+    "Lebanon",
+    "Israel",
+    "Russia"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-lime",
+   "name": "Fanta Lime",
+   "notes": "A lime soda.",
+   "status": null,
+   "markets": [
+    "Australia",
+    "New Zealand",
+    "Iceland",
+    "Lebanon",
+    "Tunisia",
+    "China",
+    "Mongolia",
+    "Tanzania"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-cherry",
+   "name": "Fanta Cherry",
+   "notes": "A cherry soda.",
+   "status": null,
+   "markets": [
+    "US",
+    "Russia",
+    "Lebanon",
+    "Indonesia",
+    "North Macedonia"
+   ],
+   "availability": "In the US, some states and Coca-Cola Freestyle machines",
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-wild-berries",
+   "name": "Fanta Wild Berries",
+   "notes": "A mixed wild berry soda.",
+   "status": null,
+   "markets": [
+    "Kazakhstan",
+    "Slovakia",
+    "Finland"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-red-cream-soda",
+   "name": "Fanta Red Cream Soda",
+   "notes": "A red cream soda.",
+   "status": null,
+   "markets": [
+    "Bahamas"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Retired in the US, UAE and Zimbabwe; listed for the Bahamas in a 2018 fan list",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-birch-beer",
+   "name": "Fanta Birch Beer",
+   "notes": "A birch beer, a root-beer-style soda.",
+   "status": null,
+   "markets": [
+    "US"
+   ],
+   "availability": "Fountain machines at some restaurants in Florida, Georgia and Ohio",
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-cherry-limeade",
+   "name": "Fanta Cherry Limeade",
+   "notes": "A cherry and lime soda.",
+   "status": null,
+   "markets": [
+    "US",
+    "Japan"
+   ],
+   "availability": "In the US, Sam's Club and some Circle K fountains",
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-melon-frosty",
+   "name": "Fanta Melon Frosty",
+   "notes": "A melon soda served at Coca-Cola's own attractions.",
+   "status": null,
+   "markets": [
+    "US"
+   ],
+   "availability": "World of Coca-Cola in Atlanta and some Walt Disney World locations",
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-sour-watermelon",
+   "name": "Fanta Sour Watermelon",
+   "notes": "A sour watermelon soda.",
+   "status": null,
+   "markets": [
+    "Australia",
+    "New Zealand"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-strawberry-sherbet-fizz",
+   "name": "Fanta Strawberry Sherbet Fizz",
+   "notes": "A strawberry sherbet soda.",
+   "status": null,
+   "markets": [
+    "Australia",
+    "New Zealand"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-lychee",
+   "name": "Fanta Lychee",
+   "notes": "A lychee soda.",
+   "status": null,
+   "markets": [
+    "Cambodia",
+    "Indonesia",
+    "Malaysia",
+    "Singapore"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-lactic-white-grape",
+   "name": "Fanta Lactic White Grape",
+   "notes": "A white grape soda with a yoghurt-drink taste.",
+   "status": null,
+   "markets": [
+    "Taiwan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-amara",
+   "name": "Fanta Amara",
+   "notes": "A bitter orange soda.",
+   "status": null,
+   "markets": [
+    "Italy",
+    "Malta"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-icy-lemon",
+   "name": "Fanta Icy Lemon",
+   "notes": "A lemon soda with a cooling taste.",
+   "status": null,
+   "markets": [
+    "UK",
+    "Ireland"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-vanilla",
+   "name": "Fanta Vanilla",
+   "notes": "A vanilla soda.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed as retired in the US in a 2018 fan list",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": true
+  },
+  {
+   "id": "fanta-black-cherry",
+   "name": "Fanta Black Cherry",
+   "notes": "A black cherry soda.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed as retired in the US in a 2018 fan list",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": true
+  },
+  {
+   "id": "fanta-starfruit",
+   "name": "Fanta Starfruit",
+   "notes": "A starfruit soda.",
+   "status": "retired",
+   "markets": [
+    "Hong Kong"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed as retired in Hong Kong in a 2018 fan list",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": true
+  },
+  {
+   "id": "fanta-chinotto",
+   "name": "Fanta Chinotto",
+   "notes": "A bitter chinotto citrus soda.",
+   "status": "retired",
+   "markets": [
+    "Italy"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed as retired in Italy in a 2018 fan list",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": true
+  },
+  {
+   "id": "fanta-greenz",
+   "name": "Fanta Greenz",
+   "notes": "A green apple, melon and lime soda.",
+   "status": "retired",
+   "markets": [
+    "France",
+    "Ireland"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed as retired in a 2018 fan list",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": true
+  },
+  {
+   "id": "fanta-latina",
+   "name": "Fanta Latina",
+   "notes": "An orange, lemon and passion fruit soda.",
+   "status": "retired",
+   "markets": [
+    "France",
+    "Portugal",
+    "Romania"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed as retired in a 2018 fan list",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": true
+  },
+  {
+   "id": "fanta-world-edition-jamaica",
+   "name": "Fanta World Edition Jamaica (Apple & Lime)",
+   "notes": "One of the World Edition series of limited flavours named after countries, this one apple & lime.",
+   "status": "retired",
+   "markets": [
+    "Bulgaria",
+    "Croatia",
+    "Poland",
+    "Morocco"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Limited edition; listed in a 2018 fan list",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": true
+  },
+  {
+   "id": "fanta-world-edition-brasil",
+   "name": "Fanta World Edition Brasil (Pineapple & Grapefruit)",
+   "notes": "One of the World Edition series of limited flavours named after countries, this one pineapple & grapefruit.",
+   "status": "retired",
+   "markets": [
+    "Bulgaria",
+    "Morocco"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Limited edition; listed in a 2018 fan list",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": true
+  },
+  {
+   "id": "fanta-world-edition-thailand",
+   "name": "Fanta World Edition Thailand (Mango)",
+   "notes": "One of the World Edition series of limited flavours named after countries, this one mango.",
+   "status": "retired",
+   "markets": [
+    "Croatia",
+    "Hungary",
+    "Netherlands"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Limited edition; listed in a 2018 fan list",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": true
+  },
+  {
+   "id": "fanta-world-edition-japan",
+   "name": "Fanta World Edition Japan (Watermelon)",
+   "notes": "One of the World Edition series of limited flavours named after countries, this one watermelon.",
+   "status": "retired",
+   "markets": [
+    "Hungary",
+    "Spain"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Limited edition; listed in a 2018 fan list",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": true
+  },
+  {
+   "id": "fanta-world-edition-spain",
+   "name": "Fanta World Edition Spain (Red Orange)",
+   "notes": "One of the World Edition series of limited flavours named after countries, this one red orange.",
+   "status": "retired",
+   "markets": [
+    "Hungary",
+    "Poland"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Limited edition; listed in a 2018 fan list",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
+   "discontinued": true
+  },
+  {
+   "id": "fanta-world-edition-new-zealand",
+   "name": "Fanta World Edition New Zealand (Green Apple)",
+   "notes": "One of the World Edition series of limited flavours named after countries, this one green apple.",
+   "status": "retired",
+   "markets": [
+    "Poland"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Limited edition; listed in a 2018 fan list",
+   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
    "discontinued": true
   }
  ]
