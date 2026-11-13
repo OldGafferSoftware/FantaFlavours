@@ -1,8 +1,8 @@
 {
  "schemaVersion": 1,
- "version": 6,
- "generated": "2026-11-12",
- "count": 167,
+ "version": 7,
+ "generated": "2026-11-13",
+ "count": 171,
  "license": "CC BY-SA 4.0",
  "attribution": "https://github.com/OldGafferSoftware/FantaFlavours#attribution",
  "flavours": [
@@ -248,32 +248,32 @@
    "id": "fanta-colita",
    "name": "Fanta Colita",
    "notes": "A cream-soda style flavour associated with Costa Rica.",
-   "status": null,
+   "status": "current",
    "markets": [
     "Costa Rica"
    ],
    "availability": null,
    "zeroSugar": null,
    "since": null,
-   "update": null,
-   "sourceURL": "https://en.wikipedia.org/wiki/Fanta",
-   "changed": null,
+   "update": "Confirmed on the Costa Rica Fanta range, sold as Fanta Kolita",
+   "sourceURL": "https://www.coca-cola.com/cr/es/brands/fanta/productos",
+   "changed": "2026-11-13",
    "discontinued": false
   },
   {
    "id": "fanta-portello",
    "name": "Fanta Portello",
    "notes": "A flavour associated with Sri Lanka, where portello is a popular soda style.",
-   "status": null,
+   "status": "current",
    "markets": [
     "Sri Lanka"
    ],
    "availability": null,
    "zeroSugar": null,
    "since": null,
-   "update": null,
-   "sourceURL": "https://en.wikipedia.org/wiki/Fanta",
-   "changed": null,
+   "update": "Confirmed on the Sri Lanka Fanta range, in a reduced-sugar recipe",
+   "sourceURL": "https://www.coca-cola.com/lk/si/brands/fanta",
+   "changed": "2026-11-13",
    "discontinued": false
   },
   {
@@ -626,14 +626,15 @@
    "notes": "A Halloween punch flavour themed on the Ghost Face character from the Scream films.",
    "status": "limited",
    "markets": [
-    "Canada"
+    "Canada",
+    "US"
    ],
    "availability": null,
    "zeroSugar": null,
    "since": "2026-08",
-   "update": "Halloween 2026 limited edition",
-   "sourceURL": "https://www.coca-cola.com/ca/en/media-centre/news/fanta-ghost-face-punch-halloween",
-   "changed": null,
+   "update": "Now also on sale in the US, from 28 August 2026",
+   "sourceURL": "https://www.thetakeout.com/2245460/fanta-ghost-face-punch-soda-review/",
+   "changed": "2026-11-13",
    "discontinued": false
   },
   {
@@ -990,12 +991,12 @@
    "markets": [
     "Japan"
    ],
-   "availability": "Some stores only",
+   "availability": "Seven & i stores (7-Eleven) only",
    "zeroSugar": null,
    "since": null,
-   "update": null,
-   "sourceURL": "https://www.coca-cola.com/jp/ja/brands/fanta/campaign/summer-2026",
-   "changed": null,
+   "update": "Listed as a Seven & i exclusive with an updated recipe",
+   "sourceURL": "https://www.coca-cola.com/jp/ja/brands/fanta/products",
+   "changed": "2026-11-13",
    "discontinued": false
   },
   {
@@ -1481,16 +1482,16 @@
    "id": "fanta-shine-muscat",
    "name": "Fanta Shine Muscat",
    "notes": "A Shine Muscat grape soda.",
-   "status": null,
+   "status": "limited",
    "markets": [
     "Japan"
    ],
    "availability": null,
    "zeroSugar": null,
-   "since": null,
-   "update": "Seasonal (autumn and winter)",
-   "sourceURL": "https://zenpop.jp/blog/post/5111/most-original-japanese-fanta-flavors",
-   "changed": null,
+   "since": "2021-12",
+   "update": "Confirmed as a Japanese winter limited release in 2021 and again in 2022",
+   "sourceURL": "https://www.coca-cola.com/jp/ja/media-center/news-20221206-11",
+   "changed": "2026-11-13",
    "discontinued": false
   },
   {
@@ -2897,6 +2898,70 @@
    "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
    "changed": null,
    "discontinued": true
+  },
+  {
+   "id": "fanta-golden-apple",
+   "name": "Fanta Golden Apple",
+   "notes": "A golden apple soda, a short-lived Japanese flavour from the 1980s and 1990s brought back in retro packaging.",
+   "status": "current",
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": null,
+   "update": "Returned in Japan in November 2025 and still listed on the Japanese range",
+   "sourceURL": "https://www.coca-cola.com/jp/ja/media-center/news-20251031-11",
+   "changed": "2026-11-13",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-citrus-mellow-yellow",
+   "name": "Fanta Citrus & Mellow Yellow",
+   "notes": "A citrus soda that blends Fanta citrus with the taste of Mellow Yellow, made as a retro-style mashup for Lawson.",
+   "status": "current",
+   "markets": [
+    "Japan"
+   ],
+   "availability": "Lawson stores only",
+   "zeroSugar": null,
+   "since": null,
+   "update": "Listed on the Japanese range as a Lawson exclusive",
+   "sourceURL": "https://www.coca-cola.com/jp/ja/brands/fanta/products",
+   "changed": "2026-11-13",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-white-grape-ambasa",
+   "name": "Fanta White Grape & Ambasa",
+   "notes": "A white grape soda mixed with the milky tang of Ambasa, a retro-style mashup for Lawson.",
+   "status": "current",
+   "markets": [
+    "Japan"
+   ],
+   "availability": "Lawson stores only",
+   "zeroSugar": null,
+   "since": "2025-05",
+   "update": "Listed on the Japanese range as a Lawson exclusive",
+   "sourceURL": "https://www.coca-cola.com/jp/ja/brands/fanta/products",
+   "changed": "2026-11-13",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-ambasa-mellow-yellow-mix-white-grape-citrus",
+   "name": "Fanta Ambasa × Mellow Yellow Mix White Grape & Citrus",
+   "notes": "A white grape and citrus soda combining Ambasa and Mellow Yellow, the third in Lawson's retro Fanta series.",
+   "status": "current",
+   "markets": [
+    "Japan"
+   ],
+   "availability": "Lawson stores only",
+   "zeroSugar": null,
+   "since": "2026-06",
+   "update": "Went on sale at Lawson in June 2026",
+   "sourceURL": "https://macaro-ni.jp/176695",
+   "changed": "2026-11-13",
+   "discontinued": false
   }
  ]
 }
