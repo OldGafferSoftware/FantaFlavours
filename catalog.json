@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "version": 5,
+ "version": 6,
  "generated": "2026-11-12",
  "count": 167,
  "license": "CC BY-SA 4.0",
@@ -1431,7 +1431,7 @@
   },
   {
    "id": "fanta-honki-grape",
-   "name": "Fanta Serious Grape (Honki)",
+   "name": "Fanta Serious Grape (Japanese Honki)",
    "notes": "A reworked, stronger-tasting grape Fanta made for Japan. \"Honki\" (本気) is Japanese for \"serious\".",
    "status": null,
    "markets": [
