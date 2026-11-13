@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "version": 4,
+ "version": 5,
  "generated": "2026-11-12",
  "count": 167,
  "license": "CC BY-SA 4.0",
@@ -1431,8 +1431,8 @@
   },
   {
    "id": "fanta-honki-grape",
-   "name": "Fanta “Honki” Grape",
-   "notes": "A reworked, stronger-tasting grape Fanta made for Japan.",
+   "name": "Fanta Serious Grape (Honki)",
+   "notes": "A reworked, stronger-tasting grape Fanta made for Japan. \"Honki\" (本気) is Japanese for \"serious\".",
    "status": null,
    "markets": [
     "Japan"
@@ -1440,9 +1440,9 @@
    "availability": null,
    "zeroSugar": null,
    "since": "2026",
-   "update": null,
+   "update": "Renamed to lead with the English translation of the Japanese name.",
    "sourceURL": "https://www.napajapan.com/products/fanta-japan-honki-serious-grape-re-engineered-flavor",
-   "changed": null,
+   "changed": "2026-11-12",
    "discontinued": false
   },
   {
