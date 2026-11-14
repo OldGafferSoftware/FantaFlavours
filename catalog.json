@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
- "version": 7,
- "generated": "2026-11-13",
+ "version": 8,
+ "generated": "2026-11-14",
  "count": 171,
  "license": "CC BY-SA 4.0",
  "attribution": "https://github.com/OldGafferSoftware/FantaFlavours#attribution",
@@ -114,14 +114,15 @@
     "South Korea",
     "Spain",
     "Kenya",
-    "Guatemala"
+    "Guatemala",
+    "Uganda"
    ],
    "availability": null,
    "zeroSugar": true,
    "since": null,
-   "update": "Zero Sugar version in Australia and South Korea; in Spain only on the Canary Islands",
-   "sourceURL": "https://www.coca-cola.com/us/en/brands/fanta/products",
-   "changed": null,
+   "update": "Now on sale in Uganda, from October 2025",
+   "sourceURL": "https://www.ccbagroup.com/?p=18059",
+   "changed": "2026-11-14",
    "discontinued": false
   },
   {
@@ -165,14 +166,15 @@
    "notes": "A mixed berry soda.",
    "status": "current",
    "markets": [
-    "US"
+    "US",
+    "Tanzania"
    ],
    "availability": null,
    "zeroSugar": null,
    "since": null,
-   "update": "Listed on the US Fanta range",
-   "sourceURL": "https://www.coca-cola.com/us/en/brands/fanta/products",
-   "changed": null,
+   "update": "Now on sale in Tanzania, from August 2026",
+   "sourceURL": "https://www.ccbagroup.com/?p=19376",
+   "changed": "2026-11-14",
    "discontinued": false
   },
   {
@@ -239,9 +241,9 @@
    "availability": null,
    "zeroSugar": null,
    "since": null,
-   "update": "Brazil regional flavour, sold between 2010 and 2020",
-   "sourceURL": "https://en.wikipedia.org/wiki/Fanta",
-   "changed": null,
+   "update": "Relaunched in north-east Brazil in August 2024 after an earlier 2010 to 2020 run",
+   "sourceURL": "https://mundodomarketing.com.br/fanta-caju-comeca-a-ser-distribuida-no-mercado-nordestino",
+   "changed": "2026-11-14",
    "discontinued": false
   },
   {
@@ -941,14 +943,15 @@
    "notes": "A sugar-free forest berry soda.",
    "status": "limited",
    "markets": [
-    "Sweden"
+    "Sweden",
+    "UK"
    ],
    "availability": null,
    "zeroSugar": true,
    "since": null,
-   "update": "Limited edition",
-   "sourceURL": "https://www.coca-cola.com/se/sv/brands/fanta",
-   "changed": null,
+   "update": "Also sold in the UK as a limited Halloween 2025 flavour",
+   "sourceURL": "https://cashandcarrymanagement.co.uk/?p=11759",
+   "changed": "2026-11-14",
    "discontinued": false
   },
   {
@@ -961,10 +964,10 @@
    ],
    "availability": null,
    "zeroSugar": true,
-   "since": null,
-   "update": "Christmas season",
-   "sourceURL": "https://www.coca-cola.com/no/no/brands/fanta",
-   "changed": null,
+   "since": "2026-10",
+   "update": "Limited run on sale in Norway from early October 2026",
+   "sourceURL": "https://kommunikasjon.ntb.no/pressemelding/19088334/fanta-kommer-som-julebrus-og-ja-den-er-rod",
+   "changed": "2026-11-14",
    "discontinued": false
   },
   {
@@ -1530,17 +1533,17 @@
    "id": "fanta-furufuru-shaker",
    "name": "Fanta FuruFuru Shaker",
    "notes": "A jelly soda you shake before drinking, sold in grape and orange.",
-   "status": "retired",
+   "status": "limited",
    "markets": [
     "Japan"
    ],
    "availability": null,
    "zeroSugar": null,
    "since": "2008",
-   "update": null,
-   "sourceURL": "https://zenpop.jp/blog/post/5111/most-original-japanese-fanta-flavors",
-   "changed": null,
-   "discontinued": true
+   "update": "Back on sale in Japan in 2026",
+   "sourceURL": "https://www.coca-cola.com/jp/ja/brands/fanta/campaign/spring-2026",
+   "changed": "2026-11-14",
+   "discontinued": false
   },
   {
    "id": "fanta-golden-kiwi",
