@@ -1,8 +1,8 @@
 {
  "schemaVersion": 1,
- "version": 8,
- "generated": "2026-11-14",
- "count": 171,
+ "version": 9,
+ "generated": "2026-11-15",
+ "count": 173,
  "license": "CC BY-SA 4.0",
  "attribution": "https://github.com/OldGafferSoftware/FantaFlavours#attribution",
  "flavours": [
@@ -594,17 +594,17 @@
    "id": "fanta-crimson-sour-cherry",
    "name": "Fanta Crimson Sour Cherry",
    "notes": "A sour cherry soda made with Xbox for its 25th anniversary, themed on Diablo IV.",
-   "status": "limited",
+   "status": "retired",
    "markets": [
     "US"
    ],
    "availability": null,
    "zeroSugar": null,
    "since": "2026-04",
-   "update": "Limited release from April 2026",
-   "sourceURL": "https://www.tastingtable.com/2138320/fanta-crimson-sour-cherry-review",
-   "changed": null,
-   "discontinued": false
+   "update": "Limited run from April to June 2026 has ended",
+   "sourceURL": "https://sporked.com/article/new-sodas-march-april-2026/",
+   "changed": "2026-11-15",
+   "discontinued": true
   },
   {
    "id": "fanta-dark-cherry",
@@ -2414,18 +2414,19 @@
    "id": "fanta-blood-orange",
    "name": "Fanta Blood Orange",
    "notes": "A blood orange soda.",
-   "status": null,
+   "status": "current",
    "markets": [
     "UK",
     "Turkey",
-    "Malta"
+    "Malta",
+    "Italy"
    ],
    "availability": null,
    "zeroSugar": null,
    "since": null,
-   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
-   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
-   "changed": null,
+   "update": "Listed by the Italian bottler as a current product made with Sicilian blood orange juice",
+   "sourceURL": "https://it.coca-colahellenic.com/en/portafoglio-prodotti/esplora-i-nostri-brand/fanta-gusto-arancia-rossa",
+   "changed": "2026-11-15",
    "discontinued": false
   },
   {
@@ -2964,6 +2965,38 @@
    "update": "Went on sale at Lawson in June 2026",
    "sourceURL": "https://macaro-ni.jp/176695",
    "changed": "2026-11-13",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-floral-bloom-berry",
+   "name": "Fanta Floral Bloom Berry",
+   "notes": "A berry soda with a light hibiscus floral note, part of the Fanta Fantasies range.",
+   "status": "current",
+   "markets": [
+    "Thailand"
+   ],
+   "availability": "Convenience stores, supermarkets and online",
+   "zeroSugar": null,
+   "since": "2026-07",
+   "update": "New in Thailand in July 2026, the first market for the Fanta Fantasies range",
+   "sourceURL": "https://www.coca-cola.com/th/th/media-center/fanta-fantasies-launch-in-thailand",
+   "changed": "2026-11-15",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-lavender-berry-bliss",
+   "name": "Fanta Lavender Berry Bliss",
+   "notes": "A berry soda flavoured with lavender, part of the Fanta Fantasies range.",
+   "status": "current",
+   "markets": [
+    "Thailand"
+   ],
+   "availability": "Convenience stores, supermarkets and online",
+   "zeroSugar": null,
+   "since": "2026-07",
+   "update": "New in Thailand in July 2026, the first market for the Fanta Fantasies range",
+   "sourceURL": "https://www.coca-cola.com/th/th/media-center/fanta-fantasies-launch-in-thailand",
+   "changed": "2026-11-15",
    "discontinued": false
   }
  ]
