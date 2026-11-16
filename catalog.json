@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
- "version": 9,
- "generated": "2026-11-15",
+ "version": 10,
+ "generated": "2026-11-16",
  "count": 173,
  "license": "CC BY-SA 4.0",
  "attribution": "https://github.com/OldGafferSoftware/FantaFlavours#attribution",
@@ -115,14 +115,15 @@
     "Spain",
     "Kenya",
     "Guatemala",
-    "Uganda"
+    "Uganda",
+    "Thailand"
    ],
    "availability": null,
    "zeroSugar": true,
    "since": null,
-   "update": "Now on sale in Uganda, from October 2025",
-   "sourceURL": "https://www.ccbagroup.com/?p=18059",
-   "changed": "2026-11-14",
+   "update": "Now also on sale in Thailand, as a limited run from February 2026",
+   "sourceURL": "https://www.coca-cola.com/th/th/media-center/fanta-npd",
+   "changed": "2026-11-16",
    "discontinued": false
   },
   {
@@ -2635,8 +2636,9 @@
    "id": "fanta-lychee",
    "name": "Fanta Lychee",
    "notes": "A lychee soda.",
-   "status": null,
+   "status": "current",
    "markets": [
+    "Thailand",
     "Cambodia",
     "Indonesia",
     "Malaysia",
@@ -2645,9 +2647,9 @@
    "availability": null,
    "zeroSugar": null,
    "since": null,
-   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
-   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
-   "changed": null,
+   "update": "Confirmed on sale in Thailand, where it launched in July 2025",
+   "sourceURL": "https://www.coca-cola.com/th/th/media-center/fanta-lychee-product-release-2025",
+   "changed": "2026-11-16",
    "discontinued": false
   },
   {
