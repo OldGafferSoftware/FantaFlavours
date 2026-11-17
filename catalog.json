@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
- "version": 10,
- "generated": "2026-11-16",
+ "version": 11,
+ "generated": "2026-11-17",
  "count": 173,
  "license": "CC BY-SA 4.0",
  "attribution": "https://github.com/OldGafferSoftware/FantaFlavours#attribution",
@@ -226,9 +226,9 @@
    "availability": null,
    "zeroSugar": true,
    "since": null,
-   "update": "Sold in Portugal with no added sugar; a Brazil regional flavour between 2010 and 2020",
-   "sourceURL": "https://www.coca-cola.com/pt/pt/brands/fanta",
-   "changed": null,
+   "update": "Returned to the regular range in Brazil in August 2022; also sold in Portugal with no added sugar",
+   "sourceURL": "https://marcaspelomundo.com.br/anunciantes/fanta-retorna-sabor-de-maracuja-ao-mercado-brasileiro-e-lanca-nova-plataforma/",
+   "changed": "2026-11-17",
    "discontinued": false
   },
   {
@@ -630,14 +630,15 @@
    "status": "limited",
    "markets": [
     "Canada",
-    "US"
+    "US",
+    "Brazil"
    ],
    "availability": null,
    "zeroSugar": null,
    "since": "2026-08",
-   "update": "Now also on sale in the US, from 28 August 2026",
-   "sourceURL": "https://www.thetakeout.com/2245460/fanta-ghost-face-punch-soda-review/",
-   "changed": "2026-11-13",
+   "update": "Also sold in Brazil, from 1 September to 31 October 2026",
+   "sourceURL": "https://mundodomarketing.com.br/fanta-inicia-campanha-de-halloween-com-ghost-face-e-universo-criado-por-ia",
+   "changed": "2026-11-17",
    "discontinued": false
   },
   {
@@ -928,14 +929,15 @@
     "Czech Republic",
     "Slovakia",
     "Bulgaria",
-    "Belgium"
+    "Belgium",
+    "Sweden"
    ],
    "availability": null,
    "zeroSugar": null,
    "since": "2026",
-   "update": "Limited edition in Europe",
-   "sourceURL": "https://www.coca-cola.com/nl/nl/brands/fanta",
-   "changed": null,
+   "update": "Now also confirmed in Sweden, as a limited edition from April 2026",
+   "sourceURL": "https://www.mynewsdesk.com/se/coca-cola_drycker_sverige_ab/pressreleases/fanta-levlar-upp-med-xbox-slaepper-diablo-inspirerade-smaken-crimson-cherry-3442261",
+   "changed": "2026-11-17",
    "discontinued": false
   },
   {
