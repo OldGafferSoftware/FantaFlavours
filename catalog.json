@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
- "version": 11,
- "generated": "2026-11-17",
+ "version": 12,
+ "generated": "2026-11-18",
  "count": 173,
  "license": "CC BY-SA 4.0",
  "attribution": "https://github.com/OldGafferSoftware/FantaFlavours#attribution",
@@ -451,14 +451,15 @@
     "Germany",
     "Austria",
     "Switzerland",
-    "Ireland"
+    "Ireland",
+    "UK"
    ],
-   "availability": null,
+   "availability": "In the UK, sold only at Tesco",
    "zeroSugar": true,
    "since": null,
-   "update": "Sold in several European countries; Zero Sugar in Germany",
-   "sourceURL": "https://www.coca-cola.com/at/de/brands/fanta",
-   "changed": null,
+   "update": "Now also on sale in the UK, exclusively at Tesco, from March 2026",
+   "sourceURL": "https://vergemagazine.co.uk/fanta-launches-bold-new-mango-flavour-available-exclusively-at-tesco/",
+   "changed": "2026-11-18",
    "discontinued": false
   },
   {
@@ -654,14 +655,15 @@
     "Bulgaria",
     "Ukraine",
     "Finland",
-    "Denmark"
+    "Denmark",
+    "UK"
    ],
    "availability": null,
    "zeroSugar": true,
    "since": null,
-   "update": "Zero Sugar version in Australia, Sweden and Spain",
-   "sourceURL": "https://www.coca-cola.com/au/en/brands/fanta",
-   "changed": null,
+   "update": "Now also sold in the UK as a Zero Sugar flavour, from February 2025",
+   "sourceURL": "https://www.coca-cola.com/gb/en/media-center/fanta-apple-zero-sugar-raspberry-zero-sugar-tutti-frutti-zero-sugar",
+   "changed": "2026-11-18",
    "discontinued": false
   },
   {
@@ -821,14 +823,16 @@
    "status": "current",
    "markets": [
     "France",
-    "Poland"
+    "Poland",
+    "UK",
+    "Switzerland"
    ],
    "availability": null,
    "zeroSugar": true,
    "since": null,
-   "update": "Zero Sugar; a limited edition in France",
-   "sourceURL": "https://www.coca-cola.com/fr/fr/brands/fanta",
-   "changed": null,
+   "update": "Also sold as a limited Zero Sugar edition in the UK and Switzerland in 2025",
+   "sourceURL": "https://www.coca-cola.com/ch/de/media-center/fanta-lanciert-neue-limited-edition",
+   "changed": "2026-11-18",
    "discontinued": false
   },
   {
@@ -1092,14 +1096,15 @@
    "status": "current",
    "markets": [
     "Nigeria",
-    "Morocco"
+    "Morocco",
+    "UK"
    ],
    "availability": null,
-   "zeroSugar": null,
+   "zeroSugar": true,
    "since": null,
-   "update": null,
-   "sourceURL": "https://www.coca-cola.com/ng/en/brands/fanta",
-   "changed": null,
+   "update": "Now also sold in the UK as Fanta Apple Zero Sugar, from February 2025",
+   "sourceURL": "https://www.coca-cola.com/gb/en/media-center/fanta-apple-zero-sugar-raspberry-zero-sugar-tutti-frutti-zero-sugar",
+   "changed": "2026-11-18",
    "discontinued": false
   },
   {
