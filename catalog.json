@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
- "version": 12,
- "generated": "2026-11-18",
+ "version": 13,
+ "generated": "2026-11-19",
  "count": 173,
  "license": "CC BY-SA 4.0",
  "attribution": "https://github.com/OldGafferSoftware/FantaFlavours#attribution",
@@ -91,14 +91,15 @@
     "Hungary",
     "Portugal",
     "Kenya",
-    "Guatemala"
+    "Guatemala",
+    "Belarus"
    ],
    "availability": null,
    "zeroSugar": true,
    "since": null,
-   "update": "Added to the UK core range in February 2026; refreshed in Japan in April 2026; Zero version in South Korea",
-   "sourceURL": "https://www.thegrocer.co.uk/news/fanta-extends-its-core-range-with-grape-flavoured-variant/715385.article",
-   "changed": null,
+   "update": "Now also listed in Belarus, where it went on sale in 2022",
+   "sourceURL": "https://www.coca-cola.com/by/be/offerings/novyy-vkus-i-perekus-vstrechay-yarkuyu-fanta-vinograd",
+   "changed": "2026-11-19",
    "discontinued": false
   },
   {
@@ -116,14 +117,15 @@
     "Kenya",
     "Guatemala",
     "Uganda",
-    "Thailand"
+    "Thailand",
+    "Belarus"
    ],
    "availability": null,
    "zeroSugar": true,
    "since": null,
-   "update": "Now also on sale in Thailand, as a limited run from February 2026",
-   "sourceURL": "https://www.coca-cola.com/th/th/media-center/fanta-npd",
-   "changed": "2026-11-16",
+   "update": "Now also confirmed on the Belarus range",
+   "sourceURL": "https://www.coca-cola.com/by/be/brands/fanta",
+   "changed": "2026-11-19",
    "discontinued": false
   },
   {
@@ -371,14 +373,15 @@
     "Finland",
     "Denmark",
     "Greece",
-    "Morocco"
+    "Morocco",
+    "Belarus"
    ],
    "availability": null,
    "zeroSugar": true,
    "since": null,
-   "update": "Widely sold in Europe and Australia; often Zero Sugar only",
-   "sourceURL": "https://www.coca-cola.com/gb/en/brands/fanta",
-   "changed": null,
+   "update": "Now also confirmed on the Belarus range",
+   "sourceURL": "https://www.coca-cola.com/by/be/brands/fanta",
+   "changed": "2026-11-19",
    "discontinued": false
   },
   {
@@ -656,14 +659,15 @@
     "Ukraine",
     "Finland",
     "Denmark",
-    "UK"
+    "UK",
+    "Papua New Guinea"
    ],
    "availability": null,
    "zeroSugar": true,
    "since": null,
-   "update": "Now also sold in the UK as a Zero Sugar flavour, from February 2025",
-   "sourceURL": "https://www.coca-cola.com/gb/en/media-center/fanta-apple-zero-sugar-raspberry-zero-sugar-tutti-frutti-zero-sugar",
-   "changed": "2026-11-18",
+   "update": "Now also on sale in Papua New Guinea, from July 2025",
+   "sourceURL": "https://www.coca-cola.com/pg/en/media-centre/wanta-fanta-new-fanta-raspberry-launches-in-papua-new-guinea",
+   "changed": "2026-11-19",
    "discontinued": false
   },
   {
@@ -1097,14 +1101,15 @@
    "markets": [
     "Nigeria",
     "Morocco",
-    "UK"
+    "UK",
+    "Tajikistan"
    ],
    "availability": null,
    "zeroSugar": true,
    "since": null,
-   "update": "Now also sold in the UK as Fanta Apple Zero Sugar, from February 2025",
-   "sourceURL": "https://www.coca-cola.com/gb/en/media-center/fanta-apple-zero-sugar-raspberry-zero-sugar-tutti-frutti-zero-sugar",
-   "changed": "2026-11-18",
+   "update": "Now also confirmed on the Tajikistan range",
+   "sourceURL": "https://www.coca-cola.com/tj/ru/brands/fanta",
+   "changed": "2026-11-19",
    "discontinued": false
   },
   {
@@ -1399,14 +1404,15 @@
     "United Arab Emirates",
     "Pakistan",
     "Bahrain",
-    "Iran"
+    "Iran",
+    "Tajikistan"
    ],
    "availability": null,
    "zeroSugar": null,
    "since": null,
-   "update": null,
-   "sourceURL": "https://www.coca-cola.com/ae/en/brands/fanta",
-   "changed": null,
+   "update": "Now also on sale in Tajikistan, listed there as new",
+   "sourceURL": "https://www.coca-cola.com/tj/ru/brands/fanta",
+   "changed": "2026-11-19",
    "discontinued": false
   },
   {
