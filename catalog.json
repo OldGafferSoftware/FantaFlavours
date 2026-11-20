@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
- "version": 13,
- "generated": "2026-11-19",
+ "version": 14,
+ "generated": "2026-11-20",
  "count": 173,
  "license": "CC BY-SA 4.0",
  "attribution": "https://github.com/OldGafferSoftware/FantaFlavours#attribution",
@@ -1055,10 +1055,10 @@
    ],
    "availability": null,
    "zeroSugar": null,
-   "since": null,
-   "update": null,
-   "sourceURL": "https://www.coca-cola.com/kr/ko/brands/fanta",
-   "changed": null,
+   "since": "2025-04",
+   "update": "Confirmed on sale in South Korea, where it launched in April 2025",
+   "sourceURL": "https://www.coca-cola.com/kr/ko/offerings/brand-story/fanta-new",
+   "changed": "2026-11-20",
    "discontinued": false
   },
   {
