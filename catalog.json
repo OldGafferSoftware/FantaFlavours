@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
- "version": 14,
- "generated": "2026-11-20",
+ "version": 15,
+ "generated": "2026-11-23",
  "count": 173,
  "license": "CC BY-SA 4.0",
  "attribution": "https://github.com/OldGafferSoftware/FantaFlavours#attribution",
@@ -2224,10 +2224,10 @@
    ],
    "availability": "Buenos Aires",
    "zeroSugar": null,
-   "since": null,
-   "update": "Listed in a 2018 fan list of Fanta flavours worldwide; current status not confirmed",
-   "sourceURL": "https://nowthatsnifty.blogspot.com/2018/07/list-of-all-fanta-flavors-from-around.html",
-   "changed": null,
+   "since": "2021-09",
+   "update": "Confirmed as launched in Argentina in September 2021, as Fanta Limón Dulce; current status not confirmed",
+   "sourceURL": "https://mercado.com.ar/protagonistas/neo-meals-la-nueva-campana-de-fanta-que-suma-ademas-nuevos-sabores",
+   "changed": "2026-11-23",
    "discontinued": false
   },
   {
