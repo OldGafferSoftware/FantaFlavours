@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
- "version": 15,
- "generated": "2026-11-23",
+ "version": 16,
+ "generated": "2026-11-24",
  "count": 173,
  "license": "CC BY-SA 4.0",
  "attribution": "https://github.com/OldGafferSoftware/FantaFlavours#attribution",
@@ -845,14 +845,15 @@
    "notes": "A watermelon soda with no added sugar.",
    "status": "current",
    "markets": [
-    "Spain"
+    "Spain",
+    "UK"
    ],
-   "availability": null,
+   "availability": "In the UK, sold as Fanta Zero Watermelon at Tesco and convenience stores such as One Stop, Londis and Budgens",
    "zeroSugar": true,
    "since": null,
-   "update": null,
-   "sourceURL": "https://www.coca-cola.com/es/es/brands/fanta",
-   "changed": null,
+   "update": "Now also on sale in Great Britain as Fanta Zero Watermelon",
+   "sourceURL": "https://gazettelive.co.uk/whats-on/food-drink-news/fanta-announces-launch-favourite-holiday-26406213",
+   "changed": "2026-11-24",
    "discontinued": false
   },
   {
