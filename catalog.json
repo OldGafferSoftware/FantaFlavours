@@ -1,8 +1,8 @@
 {
  "schemaVersion": 1,
- "version": 16,
- "generated": "2026-11-24",
- "count": 173,
+ "version": 17,
+ "generated": "2026-11-25",
+ "count": 174,
  "license": "CC BY-SA 4.0",
  "attribution": "https://github.com/OldGafferSoftware/FantaFlavours#attribution",
  "flavours": [
@@ -689,17 +689,17 @@
   {
    "id": "fanta-dreamy-cream",
    "name": "Fanta Dreamy Cream",
-   "notes": "A cream soda.",
+   "notes": "A cream soda with a lemon twist, part of the Fanta Fantasies range.",
    "status": "current",
    "markets": [
     "Australia"
    ],
    "availability": null,
-   "zeroSugar": null,
+   "zeroSugar": false,
    "since": null,
-   "update": null,
+   "update": "Confirmed on sale in Australia in the Fanta Fantasies range, as Dreamy Cream & Lemon",
    "sourceURL": "https://www.coca-cola.com/au/en/brands/fanta",
-   "changed": null,
+   "changed": "2026-11-25",
    "discontinued": false
   },
   {
@@ -3013,6 +3013,22 @@
    "update": "New in Thailand in July 2026, the first market for the Fanta Fantasies range",
    "sourceURL": "https://www.coca-cola.com/th/th/media-center/fanta-fantasies-launch-in-thailand",
    "changed": "2026-11-15",
+   "discontinued": false
+  },
+  {
+   "id": "fanta-blissful-hibiscus-berries",
+   "name": "Fanta Blissful Hibiscus & Berries",
+   "notes": "A berry soda with a light hibiscus tingle, part of the Fanta Fantasies range.",
+   "status": "current",
+   "markets": [
+    "Australia"
+   ],
+   "availability": "Supermarkets such as Woolworths",
+   "zeroSugar": false,
+   "since": null,
+   "update": "New in Australia as part of the Fanta Fantasies range",
+   "sourceURL": "https://www.coca-cola.com/au/en/brands/fanta",
+   "changed": "2026-11-25",
    "discontinued": false
   }
  ]
