@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
- "version": 17,
- "generated": "2026-11-25",
+ "version": 18,
+ "generated": "2026-11-26",
  "count": 174,
  "license": "CC BY-SA 4.0",
  "attribution": "https://github.com/OldGafferSoftware/FantaFlavours#attribution",
@@ -1369,14 +1369,15 @@
    "status": "current",
    "markets": [
     "Greece",
-    "UK"
+    "UK",
+    "Austria"
    ],
    "availability": null,
    "zeroSugar": null,
    "since": null,
-   "update": "Listed as new in Greece",
-   "sourceURL": "https://www.coca-cola.com/gr/el/brands/fanta",
-   "changed": null,
+   "update": "Now also on sale in Austria, from April 2026",
+   "sourceURL": "https://www.leadersnet.at/news/99590,coca-cola-laeutet-sommersaison-mit-neuen-geschmacksrichtungen.html",
+   "changed": "2026-11-26",
    "discontinued": false
   },
   {
