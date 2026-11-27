@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
- "version": 18,
- "generated": "2026-11-26",
+ "version": 19,
+ "generated": "2026-11-27",
  "count": 174,
  "license": "CC BY-SA 4.0",
  "attribution": "https://github.com/OldGafferSoftware/FantaFlavours#attribution",
@@ -237,16 +237,16 @@
    "id": "fanta-cashew",
    "name": "Fanta Cashew",
    "notes": "A cashew-fruit soda sold as a regional flavour in Brazil.",
-   "status": null,
+   "status": "current",
    "markets": [
     "Brazil"
    ],
    "availability": null,
    "zeroSugar": null,
    "since": null,
-   "update": "Relaunched in north-east Brazil in August 2024 after an earlier 2010 to 2020 run",
-   "sourceURL": "https://mundodomarketing.com.br/fanta-caju-comeca-a-ser-distribuida-no-mercado-nordestino",
-   "changed": "2026-11-14",
+   "update": "Confirmed on sale in Brazil on Coca-Cola's current Fanta range, as Fanta Caju",
+   "sourceURL": "https://www.coca-cola.com/br/pt/brands/fanta/produtos",
+   "changed": "2026-11-27",
    "discontinued": false
   },
   {
