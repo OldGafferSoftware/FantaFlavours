@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
- "version": 19,
- "generated": "2026-11-27",
+ "version": 20,
+ "generated": "2026-11-28",
  "count": 174,
  "license": "CC BY-SA 4.0",
  "attribution": "https://github.com/OldGafferSoftware/FantaFlavours#attribution",
@@ -1103,14 +1103,15 @@
     "Nigeria",
     "Morocco",
     "UK",
-    "Tajikistan"
+    "Tajikistan",
+    "Bangladesh"
    ],
    "availability": null,
    "zeroSugar": true,
    "since": null,
-   "update": "Now also confirmed on the Tajikistan range",
-   "sourceURL": "https://www.coca-cola.com/tj/ru/brands/fanta",
-   "changed": "2026-11-19",
+   "update": "Now also listed on the Bangladesh range",
+   "sourceURL": "https://www.coca-cola.com/bd/bn/brands/fanta/product-fanta",
+   "changed": "2026-11-28",
    "discontinued": false
   },
   {
